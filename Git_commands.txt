@@ -1,3 +1,7 @@
 1: Go to Specific path & open the terminal Git Bash Here
-2: git status
-3: 
+2: git status:>> for changes
+3: git add . :>> added from local to staged
+4: git commit -m "proper mgs name"
+5: git remote add origin git@github.com:pgourish87/Demo-Repo.git(add specific path to server)
+6: git push -u origin master
+
